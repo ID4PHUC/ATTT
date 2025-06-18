@@ -2,7 +2,6 @@
 
 ## 📚 Môn học: Lập trình mạng
 
-**Giảng viên:** BÙI DƯƠNG THẾ
 
 **Sinh viên thực hiện:** Dương Hoàng Phúc
 
