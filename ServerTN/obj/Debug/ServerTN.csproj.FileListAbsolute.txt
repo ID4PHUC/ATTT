@@ -1,0 +1,17 @@
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.csproj.AssemblyReference.cache
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\App.g.cs
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN_MarkupCompile.cache
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.g.resources
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.Properties.Resources.resources
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.csproj.GenerateResource.cache
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.csproj.CoreCompileInputs.cache
+D:\DUAN2025\APPTN\ServerTN\bin\Debug\ServerTN.exe.config
+D:\DUAN2025\APPTN\ServerTN\bin\Debug\ServerTN.exe
+D:\DUAN2025\APPTN\ServerTN\bin\Debug\ServerTN.pdb
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.exe
+D:\DUAN2025\APPTN\ServerTN\obj\Debug\ServerTN.pdb
+D:\DUAN2025\APPTN\SERVERTN\obj\Debug\KTServer.baml
+D:\DUAN2025\APPTN\SERVERTN\obj\Debug\KTServer.g.cs
+D:\DUAN2025\APPTN\SERVERTN\bin\Debug\Newtonsoft.Json.dll
+D:\DUAN2025\APPTN\SERVERTN\bin\Debug\Newtonsoft.Json.xml
+D:\DUAN2025\APPTN\SERVERTN\obj\Debug\ServerTN.csproj.Up2Date
