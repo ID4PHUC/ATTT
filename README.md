@@ -2,10 +2,14 @@
 
 ## 📚 Môn học: An toàn và bảo mật hệ thống thông tin
 **Sinh viên thực hiện:** Dương Hoàng Phúc
-**Sinh viên thực hiện:** Trần Trọng Phúc  
- **Sinh viên thực hiện:** Nguyễn Duy Nhất
- **Sinh viên thực hiện:** Phạm Huy Hoàng
- **Sinh viên thực hiện:** Nguyễn Bảo Kha
+
+**Sinh viên thực hiện:** Trần Trọng Phúc
+
+**Sinh viên thực hiện:** Nguyễn Duy Nhất
+
+**Sinh viên thực hiện:** Phạm Huy Hoàng
+
+**Sinh viên thực hiện:** Nguyễn Bảo Kha
 **Giảng viên:** Bùi Dương Thế
 
 ---
