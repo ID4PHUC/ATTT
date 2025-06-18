@@ -1,6 +1,6 @@
 # 🖧 Ứng Dụng Trắc Nghiệm Client-Server (Multi Client)
 
-## 📚 Môn học: An toàn và bảo mật hệ thống thông tin
+## 📚 Môn học: Lập trình mạng
 
 **Giảng viên:** BÙI DƯƠNG THẾ
 
