@@ -1,6 +1,9 @@
 # 🖧 Ứng Dụng Trắc Nghiệm Client-Server (Multi Client)
 
 ## 📚 Môn học: An toàn và bảo mật hệ thống thông tin
+
+**Giảng viên:** BÙI DƯƠNG THẾ
+
 **Sinh viên thực hiện:** Dương Hoàng Phúc
 
 **Sinh viên thực hiện:** Trần Trọng Phúc
@@ -10,7 +13,7 @@
 **Sinh viên thực hiện:** Phạm Huy Hoàng
 
 **Sinh viên thực hiện:** Nguyễn Bảo Kha
-**Giảng viên:** Bùi Dương Thế
+
 
 ---
 
